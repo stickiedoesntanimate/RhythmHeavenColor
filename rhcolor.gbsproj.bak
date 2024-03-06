@@ -2216,7 +2216,7 @@
             "playerHit3Script": []
         },
         {
-            "name": "Title Screen",
+            "name": "logo",
             "backgroundId": "1102d562-35a2-4729-abf6-7b150624e7d8",
             "width": 20,
             "height": 18,
@@ -11561,7 +11561,7 @@
         }
     ],
     "settings": {
-        "startSceneId": "e12c5950-ad3a-4095-aff9-b77044d47334",
+        "startSceneId": "2cb2552a-f239-462a-97ed-8ae3e580a9ad",
         "startX": 4,
         "startY": 5,
         "startMoveSpeed": 1,
